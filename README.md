@@ -4,7 +4,7 @@
 
 This Virtual Paint project is a Python application using OpenCV that allows users to paint virtually in real-time based on the detected color of an object. The application identifies the color of an object in the camera's view and uses that color to draw on the screen as the user moves the object.
 
-![Project Demo](./images/project_demo.gif)
+![Project Demo](/project_demo.gif)
 
 ## Features
 
@@ -23,11 +23,11 @@ This Virtual Paint project is a Python application using OpenCV that allows user
 
 ## Screenshots
 
-![Screenshot 1](./images/Screenshot%202023-09-22%20224305.png)
+![Screenshot 1](Screenshot%202023-09-22%20224305.png)
 
-![Screenshot 2](./images/Screenshot%202023-09-22%20224426.png)
+![Screenshot 2](Screenshot%202023-09-22%20224426.png)
 
-![Screenshot 3](./images/Screenshot%202023-09-22%20225710.png)
+![Screenshot 3](Screenshot%202023-09-22%20225710.png)
 
 ## Contributions
 
